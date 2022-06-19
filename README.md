@@ -39,6 +39,9 @@ And this (using the up midi file as a start melody:
 
     
     
-#### 
+### I found that the generated sounds all have strong randomness. The music generated with the pre-music clips had more of the style and melody of the pre-music clips. This led me to think that if the pre-music snippets were also put through a machine learning process, would the resulting sounds be more varied?
+
+
+
 
 
