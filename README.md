@@ -19,18 +19,22 @@ For this final project, I chose to use machine learning to generate music. I use
     https://colab.research.google.com/notebooks/magenta/hello_magenta/hello_magenta.ipynb#scrollTo=71dgCmmBli-s
     
     
- From this note sequence:
+From this note sequence:
  
 ![bokeh_plot](https://user-images.githubusercontent.com/73170220/174497519-eba32751-1154-4775-97b8-609dfd9bffc8.png)
 
-
-
   
 
- To this:
+To this (start with #C:
  
  
- ![bokeh_plot (1)](https://user-images.githubusercontent.com/73170220/174497579-5298298a-c7ff-49cf-a100-dc5412dc18b6.png)
+![bokeh_plot (1)](https://user-images.githubusercontent.com/73170220/174497579-5298298a-c7ff-49cf-a100-dc5412dc18b6.png)
+ 
+ 
+And this (using the up midi file as a start:
+ 
+ 
+![bokeh_plot (2)](https://user-images.githubusercontent.com/73170220/174497716-08126cb0-d4dc-4e04-bc7d-267d8cbd14d9.png)
 
 
     
