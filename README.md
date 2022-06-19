@@ -23,12 +23,24 @@ From this note sequence:
  
 ![bokeh_plot](https://user-images.githubusercontent.com/73170220/174497519-eba32751-1154-4775-97b8-609dfd9bffc8.png)
 
+
+
+
+https://user-images.githubusercontent.com/73170220/174500624-697a170b-1852-472e-8c09-99b00f63413b.mp4
+
+
   
 
 To this (start with #C:
  
  
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/73170220/174497579-5298298a-c7ff-49cf-a100-dc5412dc18b6.png)
+ 
+ 
+
+https://user-images.githubusercontent.com/73170220/174500722-db4760f0-cb74-4060-baaf-0c3493a7f762.mp4
+
+
  
  
 And this (using the up midi file as a start melody:
