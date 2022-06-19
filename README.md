@@ -128,14 +128,18 @@ Really bad right? :(
 
 
 
-https://user-images.githubusercontent.com/73170220/174502300-a4de05f2-ade1-4e67-9f05-f9e02e5c781e.mp4
 
 
-Become a little better :)
+https://user-images.githubusercontent.com/73170220/174502395-298284d3-ec74-4852-9869-7ea20de84150.mp4
 
 
 
-#### Also, using the midi files as based note and add different sound effect:
+
+Become a little better :( but is also awful :(
+
+
+
+#### Also, I try to make some clips by using the midi files as based note and add different sound effect:
 
 
 
