@@ -22,9 +22,14 @@ For this final project, I chose to use machine learning to generate music. I use
  From this note sequence:
  
 ![bokeh_plot](https://user-images.githubusercontent.com/73170220/174497519-eba32751-1154-4775-97b8-609dfd9bffc8.png)
+
+
+
   
- 
+
  To this:
+ 
+ 
  ![bokeh_plot (1)](https://user-images.githubusercontent.com/73170220/174497579-5298298a-c7ff-49cf-a100-dc5412dc18b6.png)
 
 
