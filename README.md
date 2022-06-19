@@ -113,17 +113,25 @@ https://user-images.githubusercontent.com/73170220/174500938-0303100a-45a8-4bbb-
 
 To this:
 
-![bokeh_plot (3)](https://user-images.githubusercontent.com/73170220/174500076-a254f0a3-ccd4-47f8-b6c9-960183904059.png)
-
+![bokeh_plot (7)](https://user-images.githubusercontent.com/73170220/174502320-e6c39e7f-e3be-4546-8897-76e4b6c875d4.png)
 
 
 
 https://user-images.githubusercontent.com/73170220/174502039-47b5e1e8-d57b-48cf-89f1-d57b45b5377f.mp4
 
+Really bad right? :(
+
 
 ### Finally, I used pre-trained song clip as staring clip!
 
-![bokeh_plot (4)](https://user-images.githubusercontent.com/73170220/174500151-010d6954-b8b4-46a7-a996-d8bd5b98cb66.png)
+![bokeh_plot (8)](https://user-images.githubusercontent.com/73170220/174502337-68a331d0-43e5-4bb3-ad34-fe4fecf06b99.png)
+
+
+
+https://user-images.githubusercontent.com/73170220/174502300-a4de05f2-ade1-4e67-9f05-f9e02e5c781e.mp4
+
+
+Become a little better :)
 
 
 
