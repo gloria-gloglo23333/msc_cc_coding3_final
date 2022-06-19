@@ -101,6 +101,7 @@ But it makes every epoch become slower and uncleared:(
     
 From this:
 
+
 ![download (1)](https://user-images.githubusercontent.com/73170220/174500885-526897a5-1ee2-4d65-a4ae-42d1d445b244.png)
 
 
@@ -169,5 +170,5 @@ https://user-images.githubusercontent.com/73170220/174500295-340f42ed-08fd-46e9-
 
 
 
-
+And that's it! :)
 
