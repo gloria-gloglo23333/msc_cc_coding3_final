@@ -43,10 +43,17 @@ https://user-images.githubusercontent.com/73170220/174500722-db4760f0-cb74-4060-
 
  
  
-And this (using the up midi file as a start melody:
+And this (using the previous midi file as a start melody:
  
  
-![bokeh_plot (2)](https://user-images.githubusercontent.com/73170220/174497716-08126cb0-d4dc-4e04-bc7d-267d8cbd14d9.png)
+![bokeh_plot (6)](https://user-images.githubusercontent.com/73170220/174501878-d2578306-f81f-499e-ae05-2901cc5f6b09.png)
+
+
+
+
+
+https://user-images.githubusercontent.com/73170220/174501919-f72d7b75-b6f7-41f6-a92e-b33151ba8646.mp4
+
 
 
     
@@ -94,12 +101,25 @@ But it makes every epoch become slower and uncleared:(
     
 From this:
 
-![download](https://user-images.githubusercontent.com/73170220/174500072-9b1e990a-b4ea-4ce9-bdfd-ec744b29e7a5.png)
+![download (1)](https://user-images.githubusercontent.com/73170220/174500885-526897a5-1ee2-4d65-a4ae-42d1d445b244.png)
+
+
+
+
+https://user-images.githubusercontent.com/73170220/174500938-0303100a-45a8-4bbb-a2fb-d355c92a5851.mp4
+
+
 
 
 To this:
 
 ![bokeh_plot (3)](https://user-images.githubusercontent.com/73170220/174500076-a254f0a3-ccd4-47f8-b6c9-960183904059.png)
+
+
+
+
+https://user-images.githubusercontent.com/73170220/174502039-47b5e1e8-d57b-48cf-89f1-d57b45b5377f.mp4
+
 
 ### Finally, I used pre-trained song clip as staring clip!
 
@@ -116,6 +136,7 @@ To this:
 Gituar:
 
 https://user-images.githubusercontent.com/73170220/174500247-df409b9e-3389-4f04-a667-08092cda4191.mp4
+
 
 
 
