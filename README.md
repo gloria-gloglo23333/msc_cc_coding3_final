@@ -7,7 +7,7 @@ https://user-images.githubusercontent.com/73170220/174462388-5d2ec869-3975-4aea-
 
 
 
-For this final project, I chose to use machine learning to generate music. I used a model called Melody RNN, a recurrent neural network developed by Google in magenta, as my main generative model. Using it as a model allows the machine to learn more accurately and generate music more smoothly. What I did was not to use MelodyRNN's pre-trained model for direct generation. Instead, I chose to train the model myself.
+## For this final project, I chose to use machine learning to generate music. I used a model called Melody RNN, a recurrent neural network developed by Google in magenta, as my main generative model. Using it as a model allows the machine to learn more accurately and generate music more smoothly. What I did was not to use MelodyRNN's pre-trained model for direct generation. Instead, I chose to train the model myself.
 
 
 #### magenta github page:
@@ -31,7 +31,7 @@ To this (start with #C:
 ![bokeh_plot (1)](https://user-images.githubusercontent.com/73170220/174497579-5298298a-c7ff-49cf-a100-dc5412dc18b6.png)
  
  
-And this (using the up midi file as a start:
+And this (using the up midi file as a start melody:
  
  
 ![bokeh_plot (2)](https://user-images.githubusercontent.com/73170220/174497716-08126cb0-d4dc-4e04-bc7d-267d8cbd14d9.png)
